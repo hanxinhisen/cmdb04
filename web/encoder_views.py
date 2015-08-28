@@ -152,6 +152,7 @@ def encoderhandleajax(request):
 def tvieencoderstatus(request):
     #result =snmpgetdata('localhost','public','.1.3.6.1.4.1.2021.10.1.3.1')
     server = request.REQUEST.get('server','172.16.110.1')
+    list = range(1,33)
     return render_to_response('encoders/tvieencoderstatus.html',locals())
     #return HttpResponse(result)
 @ajax()
