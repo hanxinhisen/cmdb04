@@ -35,8 +35,8 @@
       <file leaf-file-name="channelslist.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/live/channelslist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27866474">
-              <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.34857142">
+              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
               </folding>
@@ -48,18 +48,26 @@
         <entry file="file://$PROJECT_DIR$/cmdb04/live_url.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="encoder_url.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmdb04/encoder_url.py">
+      <file leaf-file-name="live_views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/live_views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="76" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
-              <folding />
+              <caret line="69" column="73" selection-start-line="69" selection-start-column="73" selection-end-line="69" selection-end-column="73" />
+              <folding>
+                <marker date="1440748478724" expanded="true" signature="2309:2751" placeholder="SELECT chann..." />
+                <marker date="1440748478724" expanded="true" signature="3075:3459" placeholder="SELECT chann..." />
+                <marker date="1440748478724" expanded="true" signature="3801:4262" placeholder="SELECT chann..." />
+                <marker date="1440748478724" expanded="true" signature="4591:4994" placeholder="SELECT chann..." />
+                <marker date="1440748478724" expanded="true" signature="5376:5566" placeholder="select chann..channels..." />
+                <marker date="1440748478724" expanded="true" signature="5679:5900" placeholder="select chann..channels..." />
+                <marker date="1440748478724" expanded="true" signature="8842:8889" placeholder="SELECT uri F..streams..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/web/encoder_views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="157" column="7" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
+              <caret line="159" column="34" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
               <folding>
                 <marker date="1440138000010" expanded="true" signature="1863:2031" placeholder="select strea..channels..." />
                 <marker date="1440138000010" expanded="true" signature="2130:2331" placeholder="select strea..channels..." />
@@ -144,7 +152,6 @@
       <list>
         <option value="$PROJECT_DIR$/templates/live/livemonitor.html" />
         <option value="$PROJECT_DIR$/snmptest.py" />
-        <option value="$PROJECT_DIR$/web/live_views.py" />
         <option value="$PROJECT_DIR$/web/mysql_conn.py" />
         <option value="$PROJECT_DIR$/web/snmpgetdata.py" />
         <option value="$PROJECT_DIR$/templates/encoders/archencoderstatus.html" />
@@ -154,6 +161,7 @@
         <option value="$PROJECT_DIR$/web/encoder_views.py" />
         <option value="$PROJECT_DIR$/templates/master_templates/index_master.html" />
         <option value="$PROJECT_DIR$/templates/encoders/tvieencoderstatus.html" />
+        <option value="$PROJECT_DIR$/web/live_views.py" />
         <option value="$PROJECT_DIR$/templates/live/channelslist.html" />
       </list>
     </option>
@@ -166,10 +174,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="2" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -211,6 +219,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cmdb04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmdb04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmdb04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmdb04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmdb04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,12 +525,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1383547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1380597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1523702" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15050167" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -876,26 +916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/live_views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="175" column="42" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://J:/python2710/Lib/site-packages/Django-1.8.3-py2.7.egg/django/template/defaulttags.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8561047">
           <caret line="1447" column="0" selection-start-line="1447" selection-start-column="0" selection-end-line="1447" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmdb04/live_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -944,6 +968,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/master_templates/index_master.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="380" column="18" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/encoder_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="159" column="34" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+          <folding>
+            <marker date="1440138000010" expanded="true" signature="1863:2031" placeholder="select strea..channels..." />
+            <marker date="1440138000010" expanded="true" signature="2130:2331" placeholder="select strea..channels..." />
+            <marker date="1440138000010" expanded="true" signature="4041:4209" placeholder="select strea..channels..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/enstatus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -954,30 +998,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/encoder_views.py">
+    <entry file="file://$PROJECT_DIR$/cmdb04/live_url.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="157" column="7" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
-          <folding>
-            <marker date="1440138000010" expanded="true" signature="1863:2031" placeholder="select strea..channels..." />
-            <marker date="1440138000010" expanded="true" signature="2130:2331" placeholder="select strea..channels..." />
-            <marker date="1440138000010" expanded="true" signature="4041:4209" placeholder="select strea..channels..." />
-          </folding>
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/master_templates/index_master.html">
+    <entry file="file://$PROJECT_DIR$/web/live_views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="380" column="18" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
-          <folding />
+          <caret line="69" column="73" selection-start-line="69" selection-start-column="73" selection-end-line="69" selection-end-column="73" />
+          <folding>
+            <marker date="1440748478724" expanded="true" signature="2309:2751" placeholder="SELECT chann..." />
+            <marker date="1440748478724" expanded="true" signature="3075:3459" placeholder="SELECT chann..." />
+            <marker date="1440748478724" expanded="true" signature="3801:4262" placeholder="SELECT chann..." />
+            <marker date="1440748478724" expanded="true" signature="4591:4994" placeholder="SELECT chann..." />
+            <marker date="1440748478724" expanded="true" signature="5376:5566" placeholder="select chann..channels..." />
+            <marker date="1440748478724" expanded="true" signature="5679:5900" placeholder="select chann..channels..." />
+            <marker date="1440748478724" expanded="true" signature="8842:8889" placeholder="SELECT uri F..streams..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/live/channelslist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27866474">
-          <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.34857142">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
           </folding>
